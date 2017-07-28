@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalDisplayOutput", "Cry
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalDisplayInput", "CrystalDisplayInput\CrystalDisplayInput.csproj", "{42235ACC-033C-4839-B936-C2025687DF0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalDisplayTest", "CrystalDisplayTest\CrystalDisplayTest.csproj", "{CA5B9A75-4EF0-4333-87B2-FC3F9E158F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalDisplay", "CrystalDisplay\CrystalDisplay.csproj", "{548BB6E1-CE33-421A-A619-9AAB911FFA1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{42235ACC-033C-4839-B936-C2025687DF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42235ACC-033C-4839-B936-C2025687DF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42235ACC-033C-4839-B936-C2025687DF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5B9A75-4EF0-4333-87B2-FC3F9E158F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5B9A75-4EF0-4333-87B2-FC3F9E158F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5B9A75-4EF0-4333-87B2-FC3F9E158F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5B9A75-4EF0-4333-87B2-FC3F9E158F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548BB6E1-CE33-421A-A619-9AAB911FFA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548BB6E1-CE33-421A-A619-9AAB911FFA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548BB6E1-CE33-421A-A619-9AAB911FFA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548BB6E1-CE33-421A-A619-9AAB911FFA1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

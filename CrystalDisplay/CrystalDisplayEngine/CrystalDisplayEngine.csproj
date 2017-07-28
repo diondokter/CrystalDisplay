@@ -5,4 +5,13 @@
     <RootNamespace>CrystalDisplay.Engine</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Numerics.Vectors" Version="4.3.0" />
+    <PackageReference Include="System.ValueTuple" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CrystalDisplay\CrystalDisplay.csproj" />
+  </ItemGroup>
+
 </Project>

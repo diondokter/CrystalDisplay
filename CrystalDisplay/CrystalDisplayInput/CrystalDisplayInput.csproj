@@ -5,4 +5,8 @@
     <RootNamespace>CrystalDisplay.Input</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CrystalDisplayEngine\CrystalDisplayEngine.csproj" />
+  </ItemGroup>
+
 </Project>
